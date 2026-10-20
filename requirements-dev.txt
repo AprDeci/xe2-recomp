@@ -1,0 +1,4 @@
+-r requirements.txt
+# Optional disassembly and differential tests; not needed for normal builds.
+capstone
+unicorn

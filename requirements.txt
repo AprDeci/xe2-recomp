@@ -1,0 +1,2 @@
+# Only needed for package extraction (tools/nca.py); the recompiler uses the standard library.
+pycryptodomex>=3.24,<4
